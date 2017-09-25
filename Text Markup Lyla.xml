@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+     href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>lorem ipsum</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>lorem ipsum</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+              <div type="edition" xml:space="preserve">
+                  <ab>In the <date when-iso="600/800"> the seventh and eighth centuries</date> CE, Muslim <trait type="ethnicity"><label>Ethnicity</label>Arab</trait> armies pushed vigorously outward from the <geogName><geogFeat>Peninsula</geogFeat><name>Arabian</name></geogName>, east into <placeName><country type="nation">Iraq</country></placeName>, <placeName><country type="nation">Persia</country></placeName> and <geogName>Central Asia</geogName>, west into <geogName><country type="nation">Egypt</country></geogName> and <geogName>North Africa</geogName>, and northeast into the lands of the eastern <geogName type="coast"><name> Mediterranean</name><geogFeat> Coast</geogFeat></geogName>. In every direction, they encountered ancient established civilizations that, once subdued, brought the conquerors into contact with new ideas, new technologies, and new forms of cultural expression. In the first flush of imperial power, the Arabs seized upon these trappings as a type of validation of their own recently acquired authority.
+            Greek philosophy, particularly theology, gave them the tools with which to defend and promulgate the tenets of their faith. The adoption and continuation of <faith>Christian</faith> medicine as practiced under the Sasanids of <placeName><country type="nation">Persia</country></placeName>provided them with the means to treat diseases, physical ailments, and injuries more efficaciously than they had been able to do until then. A knowledge of structural engineering and architecture acquired from Greek engineers and builders enabled the Muslims to create distinctive houses of worship, a variety of other civic and military buildings, and, ultimately, their own architectural vernacular. The<term ref="https://www.britannica.com/topic/mosque">mosque</term>, that distinctive Islamic structure one finds in virtually every Middle Eastern city, came to serve not only as a locus for <term>Muslim</term> religious practice but also as a symbol of the ascendancy of Islam and its role as the preeminent religious and cultural force in that part of the world.<faith>Islam</faith> emerged into a world characterized by a mosaic of competing, often conflicting, religions. Although <term>monotheism</term>was making serious inroads on the spiritual landscape, none had cornered the market on people’s religious sensibilities, and, in fact, there was arguably more diversity in the beliefs held in the region in this period than there had been for some time heretofore. <faith>Christianity</faith>, a mere seven centuries old in the mid-600s of the present era, was still wrestling with such fundamental theological issues as the nature of <persName type="religious">Christ</persName>. Little more than three centuries had passed since the conversion of the <persName><roleName type="nobility"> Emperor</roleName><forename>Constantine</forename></persName> and the estab- lishment of <faith>Christianity </faith> as the offcial religion of the <placeName><bloc type="empire">Byzantine Empire</bloc></placeName>. Though by this time widely practiced, <faith>Christianity</faith> was scarcely unifed in its doctrine and numerous confessional variants were competing vigorously to gain adherents and, through them, greater legitimacy.
+The two largest factions were the Nestorians and the Monophysites. The Nestorians held the view that Christ was at once human and divine, both parts of his nature being perfect and inseparable; the Monophysites countered that Jesus had but a single nature and that it was divine.14 The relative fortunes of these two positions ebbed and flowed; despite efforts to settle the dispute rationally, most notably at the <event when="451"> Council of Chalcedon </event> in <date when="451">451</date> CE, there were periodic campaigns of suppression during which adherents of one group or the other suffered expulsion or yet more severe sanction. In addition, a number of other confessions embracing varying measures of Christianity, Gnosticism and even paganism the Manichaeans,Daysanites and Sabians are the most prominent—were attempting to promulgate their own particular theological viewpoints with varying degrees of success.One must consider that the ‘paganism’ of late antiquity was not the paganism of the Classical world. As <name type="person">Jonathan Berkey</name> puts it, <quote>paganism—or more accurately, some of the paganisms of late antiquity—had moved a good distance from the religion of Homer and Ramses, and in many respects shared a good deal with the Christian and Islamic traditions which replaced it.</quote></ab> </div>
+        </body>
+    </text>
+</TEI>
